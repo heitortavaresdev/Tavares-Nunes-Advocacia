@@ -1,0 +1,14 @@
+com\tavaresnunes\escritorio\model\Cliente.class
+com\tavaresnunes\escritorio\model\Prazo.class
+com\tavaresnunes\escritorio\model\Processo.class
+com\tavaresnunes\escritorio\config\DataInitializer.class
+com\tavaresnunes\escritorio\Application.class
+com\tavaresnunes\escritorio\model\Unidade.class
+com\tavaresnunes\escritorio\repository\AdvogadoRepository.class
+com\tavaresnunes\escritorio\repository\ProcessoRepository.class
+com\tavaresnunes\escritorio\service\EscritorioService.class
+com\tavaresnunes\escritorio\model\StatusPrazo.class
+com\tavaresnunes\escritorio\repository\PrazoRepository.class
+com\tavaresnunes\escritorio\model\Advogado.class
+com\tavaresnunes\escritorio\controller\ApiController.class
+com\tavaresnunes\escritorio\repository\ClienteRepository.class
