@@ -6,7 +6,7 @@ Centralização e gerenciamento de processos, clientes, prazos e documentos das 
 ## 🚀 Tecnologias Utilizadas
 
 ### Back-end
-- Java 17
+- Java 25
 - Spring Boot 3
 - Spring Data JPA
 - Banco de Dados H2 (Memória / Dev)
